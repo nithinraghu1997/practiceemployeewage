@@ -4,5 +4,6 @@ class EmpWage
 	{
 		System.out.println("Welcome All");
 		System.out.println("Hello All");
+		System.out.println("Hi Everyone");
 	}
 }
